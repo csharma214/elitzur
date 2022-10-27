@@ -24,7 +24,7 @@ import com.spotify.elitzur.{
   IllegalValidationException,
   MetricsReporter
 }
-import magnolia._
+import magnolia1._
 
 import scala.collection.mutable
 import scala.language.experimental.macros

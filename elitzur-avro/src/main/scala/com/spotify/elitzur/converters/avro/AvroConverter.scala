@@ -24,7 +24,7 @@ import com.spotify.scio.coders.Coder
 import scala.collection.mutable
 import scala.reflect.ClassTag
 import com.spotify.elitzur.{Utils => SharedUtils}
-import magnolia._
+import magnolia1._
 import org.apache.avro.Schema
 import enumeratum._
 
